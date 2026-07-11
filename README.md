@@ -1,4 +1,4 @@
-1. Tier 1 IT Helpdesk Assistant
+ Tier 1 IT Helpdesk Assistant
 
 A Claude-powered triage chatbot that handles common Tier 1 IT issues the way a real service desk does.
 
